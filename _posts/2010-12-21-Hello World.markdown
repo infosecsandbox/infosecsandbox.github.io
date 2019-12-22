@@ -18,9 +18,9 @@ Other than, I plan to have a lot of fun, learn a bunch of cool stuff and share i
 
 I dabble in a ton of different tech areas, including Python, PowerShell, red/blue/purple team tools, business, risk management, and a lot more.
 
-One thing I love to do is write. Ironically, I'm not the best writer, but hopefully it will not be too painful. A goal for the upcoming year is to write more, hence the site.
+One thing I love to do is write. Ironically, I'm not the best writer, but hopefully, it will not be too painful. A goal for the upcoming year is to write more, hence the site.
 
-I'm going for the non-public-persona route so I'm able to share a bit more freely without worrying about sharing real or unintended information in my actual projects. All opinions are obviously my own. While I will talk about risk management, privacy information, etc. I am not a lawyer, accountant, doctor, etc. I am in information security. Any advice, tools, tips & tricks, or other information should be taken for the purpose intended and you should "play along" at your own risk. If there is content that you want to try, make sure it is on your own gear or you have permission from the owner before attacking or otherwise causing harm to assets.
+I'm going the non-public-persona route so I'm able to share a bit more freely without worrying about sharing real or unintended information in my actual projects. All opinions are obviously my own. While I will talk about risk management, privacy information, etc. I am not a lawyer, accountant, doctor, etc. I am in information security. Any advice, tools, tips & tricks, or other information should be taken for the purpose intended and you should "play along" at your own risk. If there is content that you want to try, make sure it is on your own gear or you have permission from the owner before attacking or otherwise causing harm to assets.
 
 Along with a lot of other people in IT and information security, I struggle with imposter syndrome even though I have been in both IT in general and specifically security for quite a few years. I'm hoping this is a fun way to build skills and really, contribute back to a fantastic community that has taught me so much, thank you!
 
