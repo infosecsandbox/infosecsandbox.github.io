@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: InfoSec Sandbox
+description: A place to play with things I'm learning
+keywords: infosec, security, Fun
+author: InfoSec
+baseurl: "https://infosecsandbox.github.io/blog" # the subpath of your site, e.g. /blog/
+url: "https://infosecsandbox.github.io" # the base hostname & protocol for your site
