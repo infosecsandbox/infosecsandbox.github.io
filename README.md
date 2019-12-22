@@ -1,2 +1,0 @@
-# infosecsandbox.github.io
-Website
